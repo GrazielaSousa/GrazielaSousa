@@ -28,4 +28,4 @@
  
   </div>
   
-  ![Snake animation](https://github.com/GrazielaSousa/GrazielaSousa/blob/main/.github/workflows/cobrinha.yml)
+  ![Snake animation](https://github.com/GrazielaSousa/GrazielaSousa/blob/output/github-contribution-grid-snake.svg)
