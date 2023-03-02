@@ -1,9 +1,8 @@
 ### Olá, sou a Graziela, mas podem me chamar de Grazi 👋
 
-- :computer: Estudando para se tornar desenvolvedora front-end
-- :seedling: Atualmente trabalho como jovem aprendiz
+- :computer: Estudando para se tornar desenvolvedora back-end Java
+- :seedling: Atualmente trabalho como desenvolvedora RPA
 - :mortar_board: Graduando em Sistemas de Informação
-- :crystal_ball: Estudando HTML | CSS | Java | C++ 
 
 <div align="center">
   <a href="https://github.com/GrazielaSousa">
