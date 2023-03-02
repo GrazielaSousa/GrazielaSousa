@@ -3,6 +3,8 @@
 
 - Estou atualmente trabalhando em **Desenvolvedora RPA**- 🔭 🌱 Estou aprendendo **Java e Automação RPA com Python**
 
+img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/74/4f/53/744f530d6c2ac3b3bb3e182927de1700.gif"
+
 
 
 <h3 align="left">Conecte-se comigo:</h3><p align="left">
