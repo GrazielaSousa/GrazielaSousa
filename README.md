@@ -1,7 +1,8 @@
 <h1 align="center">Hey 👋 , Sou a Graziela, mas podem me chamar de Grazi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grazielasousa&label=Profile%20views&color=0e75b6&style=flat" alt="grazielasousa" /> </p>
 
-- Estou atualmente trabalhando em **Desenvolvedora RPA**- 🔭 🌱 Estou aprendendo **Java e Automação RPA com Python**
+- Estou atualmente trabalhando em **Desenvolvedora RPA**- 🔭 
+- 🌱 Estou aprendendo **Java e Automação RPA com Python**
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/74/4f/53/744f530d6c2ac3b3bb3e182927de1700.gif">
 
